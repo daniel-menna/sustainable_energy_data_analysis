@@ -37,26 +37,26 @@ This dataset is composev by the following atributes:
 
 ### What are the types of renewable energy and from where the investments come?
 According to the data source, we can see that the energy production in MWh per type is very similar. Also, acording to the value invested, the source of fundings has invested similar amounts also.
-['/pics/1.png']
+[alt text]('/pics/1.png')
 
 ### What type of energy created more jobs?
 For this analysis, the number of employess engaged in this investments are similar, evewn though the wind type has the higher value with 5,530,174 employees.
-['/pics/2.png']
+[alt text]('/pics/2.png')
 
 ### What type of energy has higher potential to reduce GHG emission?
 According to the findings for this study, Biomass, in average, has the highest potential of reduction with 25645.694359 tCO2e.
-['/pics/3.png']
+[alt text]('/pics/3.png')
 
 ### What are the energy production capacity and their consumption?
 For all types of sources, the current capacity is higher them their demand. So there is space to adoption with current capacity. Also it is possible to check the Wind has the highest capacity with 
-['/pics/4.png']
+[alt text]('/pics/4.png'])
 
 ### In avarege, what are the investments needed and fundings used?
 According to this study, in avarege, tidal energy received more investments.
-['/pics/5.png']
+[alt text]('/pics/5.png')
 
 Also, about fundings used to support this investments, Wind energy are receiving higher funds.
-['/pics/6.png']
+[alt text]('/pics/6.png')
 
 ## Findings and Further Analysis
 For this project, our main goal was to find insights from the data. Here are some key findings:
