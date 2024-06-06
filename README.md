@@ -2,7 +2,7 @@
 
 Investing in renewable energies is crucial given current climate changes as it reduces greenhouse gas emissions, mitigating global warming and extreme weather events. Renewables, such as solar and wind, provide sustainable, low-carbon energy sources, decreasing dependence on fossil fuels and enhancing energy security. Additionally, they stimulate economic growth through job creation and innovation. Transitioning to renewables is vital for protecting ecosystems, public health, and ensuring a livable planet for future generations.
 
-This study has the objective to understand the types of renewable energy available, their capacity and also the investments made in each one. Through an Exploratory Data Analysis (EDA), let's explore it and find some relevant insights.
+This study has the objective to understand the types of renewable energy available, their capacity, and also the investments made in each one. Through an Exploratory Data Analysis (EDA), let's explore it and find some relevant insights.
 
 ## Data Source and Tools
 
@@ -35,34 +35,34 @@ This dataset is composev by the following atributes:
 
 ## Business Questions
 
-### What are the types of renewable energy and from where the investments come?
+### What are the types of renewable energy and where are the investments?
 According to the data source, we can see that the energy production in MWh per type is very similar. Also, acording to the value invested, the source of fundings has invested similar amounts also.
-<img src="pics/1.png" size=500>
+<img src="pics/1.png" width=500>
 
 ### What type of energy created more jobs?
-For this analysis, the number of employess engaged in this investments are similar, evewn though the wind type has the higher value with 5,530,174 employees.
-<img src="pics/2.png" size=500>
+For this analysis, the number of employees engaged in these investments are similar, even though the wind type has the higher value with 5,530,174 employees.
+<img src="pics/2.png" width=500>
 
 ### What type of energy has higher potential to reduce GHG emission?
 According to the findings for this study, Biomass, in average, has the highest potential of reduction with 25645.694359 tCO2e.
-<img src="pics/3.png">
+<img src="pics/3.png"  width=500>
 
 ### What are the energy production capacity and their consumption?
 For all types of sources, the current capacity is higher them their demand. So there is space to adoption with current capacity. Also it is possible to check the Wind has the highest capacity with 
-<img src="pics/4.png">
+<img src="pics/4.png" width=500>
 
 ### In avarege, what are the investments needed and fundings used?
-According to this study, in avarege, tidal energy received more investments.
-<img src="pics/5.png">
+According to this study, on average, tidal energy received more investments.
+<img src="pics/5.png"  width=500>
 
-Also, about fundings used to support this investments, Wind energy are receiving higher funds.
-<img src="pics/6.png">
+Also, about funding used to support these investments, Wind energy are receiving higher funds.
+<img src="pics/6.png"  width=500>
 
 ## Findings and Further Analysis
 For this project, our main goal was to find insights from the data. Here are some key findings:
 
 - Funding Source: The top funding source is a public-private partnership, accounting for 33.6% of the total. 
-- Employment: Tidal Energy employs a large number of people, with an average of 2,519 jobs created.
+- Employment: Tidal Energy employs many people, creating an average of 2,519 jobs.
 - GHG Emission Reduction: Biomass leads in GHG emission reduction, with an average reduction of 25,645.69 tCO2e. 
 - Air Pollution Reduction: Solar energy has the highest air pollution reduction index, with an average of 51.61.
 - Energy Production: Geothermal energy has the highest average energy production at 252,893.83 MWh. 
@@ -72,11 +72,11 @@ For this project, our main goal was to find insights from the data. Here are som
 - Financial Incentives: Wind energy receives the highest financial incentives, averaging $10,232,840
 
 For further studies, the suggestion is to explore the relationship between:
-- GHG emissions with the cost of investiments and define the best scenario;
+- GHG emissions with the cost of investments and define the best scenario;
 - Potential of reduction in emissions with available funds;
 - The social and economic impact that would be created considering the new jobs that would be created.
 
-However, to complete this analysis it important to check the possibility to collect extra data regarding the geography and energy sources availablity. It will impact the definition depending the country, for exemple. 
+However, to complete this analysis it is important to check the possibility to collect extra data regarding the geography and energy sources availablity. It will impact the definition depending the country, for exemple. 
 
 
 
