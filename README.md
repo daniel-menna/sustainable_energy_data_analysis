@@ -37,7 +37,7 @@ This dataset is composev by the following atributes:
 
 ### What are the types of renewable energy and from where the investments come?
 According to the data source, we can see that the energy production in MWh per type is very similar. Also, acording to the value invested, the source of fundings has invested similar amounts also.
-[alt text]('/pics/1.png')
+![image]('/pics/1.png')
 
 ### What type of energy created more jobs?
 For this analysis, the number of employess engaged in this investments are similar, evewn though the wind type has the higher value with 5,530,174 employees.
